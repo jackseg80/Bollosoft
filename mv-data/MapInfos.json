@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Forêt perdue","order":7,"parentId":0,"scrollX":1574,"scrollY":1069},
+{"id":2,"expanded":true,"name":"Bolloland","order":1,"parentId":0,"scrollX":619,"scrollY":606},
+{"id":3,"expanded":true,"name":"Labyrinthe de glace","order":4,"parentId":0,"scrollX":617,"scrollY":792},
+{"id":4,"expanded":false,"name":"Roc de Bolloland","order":3,"parentId":0,"scrollX":272,"scrollY":208},
+{"id":5,"expanded":false,"name":"Forêt Nord","order":8,"parentId":1,"scrollX":448,"scrollY":362},
+{"id":6,"expanded":false,"name":"Maison Bolloré","order":2,"parentId":2,"scrollX":368,"scrollY":336},
+{"id":7,"expanded":false,"name":"Interieur Laby","order":5,"parentId":3,"scrollX":272,"scrollY":374},
+null,
+{"id":9,"expanded":false,"name":"EFFECTS TO SPAWN","order":6,"parentId":0,"scrollX":272,"scrollY":208}
+]

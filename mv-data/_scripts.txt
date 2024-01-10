@@ -1,0 +1,163 @@
+Skill 1 Attaque: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Attaque double: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Double attaque: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Triple attaque: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Souffle enflammé: Damage Formula: a.atk
+Skill 9 Souffle glacé: Damage Formula: a.atk
+Skill 10 Choc électrique: Damage Formula: a.atk
+Skill 21 Souplesse: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 Vampirisme: Damage Formula: a.atk * 2 - b.def
+Skill 24 Méditation: Damage Formula: b.mhp / 4
+Skill 26 Soin: Damage Formula: 250 + a.mat
+Skill 27 Soin 2: Damage Formula: 1000 + a.mat * 2
+Skill 28 Soin 3: Damage Formula: 4000 + a.mat * 4
+Skill 29 Restauration: Damage Formula: 250 + a.mat
+Skill 30 Restauration 2: Damage Formula: 1000 + a.mat * 2
+Skill 33 Résurrection: Damage Formula: b.mhp / 10
+Skill 34 Résurrection 2: Damage Formula: b.mhp / 2
+Skill 49 Saignée: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 50 Succion: Damage Formula: 20 + a.mat - b.mdf * 0.5
+Skill 51 Feu: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 Feu 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 Flamme: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 Flamme 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 Glace: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 56 Glace 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 57 Blizzard: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 58 Blizzard II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 Eclair: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 60 Eclair 2: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 Foudre: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 62 Foudre 2: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 Eau: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 64 Vague: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 65 Roche: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 Séisme: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 67 Vent: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 Tornade: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 Lumière: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 Lumière 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 Ténèbres: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 Ténèbres 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 Explosion: Damage Formula: 300 + a.mat * 2
+Skill 74 Explosion max.: Damage Formula: 300 + a.mat * 2
+Skill 80 Attaque brutale: Damage Formula: a.atk * 5 - b.def * 2
+Skill 81 Pourfendre: Damage Formula: a.atk * 2 - b.def * 2
+Skill 83 Danse martiale: Damage Formula: a.atk * 5 - b.def * 2
+Skill 84 Déchaînement: Damage Formula: a.atk * 12 - b.def * 6
+Skill 85 Tacle: Damage Formula: a.atk * 4 + a.def * 2 - b.def * 2
+Skill 88 Coup de pied éclair: Damage Formula: a.atk * 5
+Skill 89 Griffe: Damage Formula: a.atk * 12
+Skill 94 Tempête: Damage Formula: a.atk * 5 - b.def * 2
+Skill 95 Aura: Damage Formula: a.atk * 4 + a.mat * 3 - b.def - b.mdf
+Skill 99 Aura 2: Damage Formula: a.atk * 5 + a.mat * 5 - b.def - b.mdf
+Skill 100 Yoroidoshi: Damage Formula: a.atk * 4
+Skill 103 Tsubamekaeshi: Damage Formula: a.atk * 3 - b.def * 2
+Skill 104 Ouka Mugen jin: Damage Formula: a.atk * 4 - b.def * 2
+Skill 105 Brise-arme: Damage Formula: a.atk * 4 - b.def * 2
+Skill 106 Brise-armure: Damage Formula: a.atk * 4 - b.def * 2
+Skill 108 Triple tir: Damage Formula: a.atk * 4 + a.agi * 2 - b.def * 2
+Skill 109 Pluie de flèches: Damage Formula: a.atk * 3 + a.agi * 2 - b.def * 2
+Skill 113 Lame furtive: Damage Formula: a.atk * 3 + a.luk * 4 - b.def * 2
+Skill 114 Lame fatale: Damage Formula: a.atk * 2 + a.luk * 4 - b.def * 2
+Skill 117 Lumière divine: Damage Formula: a.mat * 5 - b.mdf
+Skill 122 Torrent magique: Damage Formula: b.mmp * 0.5
+Map 1 Forêt perdue - Event 4 EV004 (0,0) - Page 1 Line 1:  - Script call: $game_temp.mapname = true
+Map 1 Forêt perdue - Event 4 EV004 (0,0) - Page 1 Line 2:  - Script call: weather(1, 7, "Leaf_01A")
+Map 1 Forêt perdue - Event 6 ev_brouillard (54,41) - Page 1 Line 3:  - Script call: MGC.to_map_zoom(0.3, 60)
+Map 1 Forêt perdue - Event 6 ev_brouillard (54,41) - Page 1 Line 7:  - Script call: MGC.to_map_zoom(1, 60)
+Map 1 Forêt perdue - Event 7 EV007 (19,69) - Page 1 Line 4:  - Script call: weather_stop
+Map 1 Forêt perdue - Event 8 EV008 (20,69) - Page 1 Line 4:  - Script call: weather_stop
+Map 1 Forêt perdue - Event 9 EV009 (21,69) - Page 1 Line 4:  - Script call: weather_stop
+Map 1 Forêt perdue - Event 10 EV010 (20,67) - Page 1 Line 1:  - Script call: MGC.to_map_zoom(0.2, 60)
+Map 1 Forêt perdue - Event 10 EV010 (20,67) - Page 1 Line 3:  - Script call: MGC.to_map_zoom(1, 60)
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 15:  - Script call: s = $game_map.effect_surface
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 16:  - Script call: s.change_color(120,-68,-68,-68,130)
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 17:  - Script call: l = $game_map.lantern
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 18:  - Script call: l.change_owner($game_player)
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 19:  - Script call: h = {2=>"ld",4=>"ll",6=>"lr",8=>"lu"}
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 20:  - Script call: l.set_multiple_graphics(h)
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 21:  - Script call: l.set_opacity(255,0)
+Map 2 Bolloland - Event 2 ev_autel (26,11) - Page 1 Line 22:  - Script call: l.show
+Map 2 Bolloland - Event 8 ev_tuto1 (19,29) - Page 1 Line 1:  - Script call: $game_temp.mapname = true
+Map 2 Bolloland - Event 8 ev_tuto1 (19,29) - Page 1 Line 2:  - Script call: MGC.to_map_zoom(0.5, 80)
+Map 2 Bolloland - Event 8 ev_tuto1 (19,29) - Page 1 Line 4:  - Script call: MGC.to_map_zoom(1,50)
+Map 2 Bolloland - Event 21 ev_coffre_1million (9,12) - Page 1 Line 1:  - Script call: MGC.to_map_zoom(1.5, 30)
+Map 2 Bolloland - Event 21 ev_coffre_1million (9,12) - Page 1 Line 57:  - Script call: MGC.to_map_zoom(1, 30)
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 1:  - Script call: s = $game_map.effect_surface
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 2:  - Script call: s.change_color(10,0,0,0,0)
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 3:  - Script call: l = $game_map.lantern
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 4:  - Script call: l.change_owner($game_player)
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 5:  - Script call: h = {2=>"ld",4=>"ll",6=>"lr",8=>"lu"}
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 6:  - Script call: l.set_multiple_graphics(h)
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 7:  - Script call: l.set_opacity(255,0)
+Map 2 Bolloland - Event 22 EV022 (15,10) - Page 1 Line 8:  - Script call: l.hide
+Map 2 Bolloland - Event 23 ev_soeur_guillemot (7,29) - Page 1 Line 1:  - Script call: MGC.to_map_zoom(1.5, 30)
+Map 2 Bolloland - Event 23 ev_soeur_guillemot (7,29) - Page 1 Line 15:  - Script call: MGC.to_map_zoom(1, 30)
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 2:  - Script call: if !Graphics.vx_fullscreen?
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 3:  - Script call:  Graphics.ratio = 2
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 4:  - Script call:  Graphics.vx_fullscreen_mode
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 5:  - Script call: end
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 7:  - Script call: damage_popup_map(true)
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 8:  - Script call: $game_system.anti_lag = true
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 9:  - Script call: $game_system.anti_lag_animation = true
+Map 2 Bolloland - Event 34 ev_intro (0,1) - Page 1 Line 10:  - Script call: menu_transition("",10)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 3:  - Script call: $game_temp.mapname = true
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 6:  - Script call: MGC.to_map_zoom(0.4, 60)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 30:  - Script call: s = $game_map.effect_surface
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 31:  - Script call: s.change_color(120,0,0,0,190)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 43:  - Script call: l = $game_map.lantern
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 44:  - Script call: l.change_owner($game_player)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 45:  - Script call: i = "torch.png"
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 46:  - Script call: l.set_graphic(i)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 47:  - Script call: l.set_opacity(255,0)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 48:  - Script call: l.show
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 50:  - Script call: MGC.to_map_zoom(1, 60)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 57:  - Script call: l = $game_map.lantern
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 58:  - Script call: l.change_owner($game_player)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 59:  - Script call: h = {2=>"ld",4=>"ll",6=>"lr",8=>"lu"}
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 60:  - Script call: l.set_multiple_graphics(h)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 61:  - Script call: l.set_opacity(255,0)
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 62:  - Script call: l.show
+Map 3 Labyrinthe de glace - Event 1 ev_DébutLabyDeGlace (21,47) - Page 1 Line 64:  - Script call: MGC.to_map_zoom(1, 60)
+Map 3 Labyrinthe de glace - Event 3 ev_salleEnigme (23,22) - Page 1 Line 8:  - Script call: l = $game_map.lantern
+Map 3 Labyrinthe de glace - Event 3 ev_salleEnigme (23,22) - Page 1 Line 9:  - Script call: l.change_owner($game_player)
+Map 3 Labyrinthe de glace - Event 3 ev_salleEnigme (23,22) - Page 1 Line 10:  - Script call: l.set_graphic("torch_m")
+Map 3 Labyrinthe de glace - Event 3 ev_salleEnigme (23,22) - Page 1 Line 11:  - Script call: l.set_opacity(200,25)
+Map 3 Labyrinthe de glace - Event 3 ev_salleEnigme (23,22) - Page 1 Line 12:  - Script call: l.hide
+Map 3 Labyrinthe de glace - Event 3 ev_salleEnigme (23,22) - Page 1 Line 18:  - Script call: s = $game_map.effect_surface
+Map 3 Labyrinthe de glace - Event 3 ev_salleEnigme (23,22) - Page 1 Line 19:  - Script call: s.change_color(120,0,0,0,230)
+Map 4 Roc de Bolloland - Event 1 EV001 (0,0) - Page 1 Line 1:  - Script call: $game_temp.mapname = true
+Map 4 Roc de Bolloland - Event 1 EV001 (0,0) - Page 1 Line 2:  - Script call: weather(5, 6, "Light_01B")
+Map 5 Forêt Nord - Event 7 EV007 (0,1) - Page 1 Line 1:  - Script call: $game_temp.mapname = true
+Map 5 Forêt Nord - Event 7 EV007 (0,1) - Page 1 Line 2:  - Script call: weather(1, 10, "Leaf_02A")
+Map 5 Forêt Nord - Event 7 EV007 (0,1) - Page 1 Line 3:  - Script call: picture_effect(12,4,180)
+Map 5 Forêt Nord - Event 7 EV007 (0,1) - Page 1 Line 4:  - Script call: picture_effect(12,3,10)
+Map 5 Forêt Nord - Event 7 EV007 (0,1) - Page 1 Line 5:  - Script call: picture_effect(13,4,120)
+Map 5 Forêt Nord - Event 7 EV007 (0,1) - Page 1 Line 6:  - Script call: picture_effect(13,3,10,10)
+Map 5 Forêt Nord - Event 8 EV008 (16,29) - Page 1 Line 19:  - Script call: weather_stop
+Map 5 Forêt Nord - Event 9 EV009 (15,29) - Page 1 Line 16:  - Script call: weather_stop
+Map 5 Forêt Nord - Event 10 EV010 (14,29) - Page 1 Line 19:  - Script call: weather_stop
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 4:  - Script call: s = $game_map.effect_surface
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 5:  - Script call: s.change_color(10,0,0,0,0)
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 6:  - Script call: l = $game_map.lantern
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 7:  - Script call: l.change_owner($game_player)
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 8:  - Script call: h = {2=>"ld",4=>"ll",6=>"lr",8=>"lu"}
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 9:  - Script call: l.set_multiple_graphics(h)
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 10:  - Script call: l.set_opacity(255,0)
+Map 6 Maison Bolloré - Event 1 EV001 (4,18) - Page 1 Line 11:  - Script call: l.hide
+Map 6 Maison Bolloré - Event 4 ev_Bolloré (1,0) - Page 1 Line 1:  - Script call: MGC.to_map_zoom(2, 30)
+Map 6 Maison Bolloré - Event 4 ev_Bolloré (1,0) - Page 1 Line 96:  - Script call: MGC.to_map_zoom(1, 30)
+Map 6 Maison Bolloré - Event 6 EV006 (0,0) - Page 1 Line 1:  - Script call: s = $game_map.effect_surface
+Map 6 Maison Bolloré - Event 6 EV006 (0,0) - Page 1 Line 2:  - Script call: s.change_color(90,-68,-68,-68,120)
+Map 7 Interieur Laby - Event 1 ev_torche (4,18) - Page 1 Line 2:  - Script call: l = $game_map.lantern
+Map 7 Interieur Laby - Event 1 ev_torche (4,18) - Page 1 Line 3:  - Script call: l.change_owner($game_player)
+Map 7 Interieur Laby - Event 1 ev_torche (4,18) - Page 1 Line 4:  - Script call: l.set_graphic("torch_m")
+Map 7 Interieur Laby - Event 1 ev_torche (4,18) - Page 1 Line 5:  - Script call: l.set_opacity(200,25)
+Map 7 Interieur Laby - Event 1 ev_torche (4,18) - Page 1 Line 6:  - Script call: l.show
+Map 7 Interieur Laby - Event 10 ev_cristalMagique (8,6) - Page 1 Line 3:  - Script call: l = $game_map.lantern
+Map 7 Interieur Laby - Event 10 ev_cristalMagique (8,6) - Page 1 Line 4:  - Script call: l.set_graphic("torch_m")
+Map 7 Interieur Laby - Event 10 ev_cristalMagique (8,6) - Page 1 Line 5:  - Script call: l.set_opacity(180,10)
+Map 7 Interieur Laby - Event 10 ev_cristalMagique (8,6) - Page 1 Line 6:  - Script call: l.show
+Map 7 Interieur Laby - Event 10 ev_cristalMagique (8,6) - Page 1 Line 14:  - Script call: s = $game_map.effect_surface
+Map 7 Interieur Laby - Event 10 ev_cristalMagique (8,6) - Page 1 Line 15:  - Script call: s.change_color(120,0,0,0,0)
